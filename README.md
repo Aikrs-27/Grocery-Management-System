@@ -1,4 +1,5 @@
 🛒 Grocery Management System 
+
 A Grocery Management System with a user-friendly Tkinter GUI, built using Python. This desktop application helps manage inventory by allowing users to add, buy, and sell grocery items while keeping track of current stock levels.
 
 📌 Features
